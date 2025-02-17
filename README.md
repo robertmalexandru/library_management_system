@@ -1,4 +1,4 @@
-# Library Management System using SQL
+# Library Management System
 
 This project implements a **Library Management System** using SQL. It involves database design, table creation, and performing CRUD operations alongside advanced SQL queries. The objective is to showcase **proficiency in database management, data analysis, and query optimization**.
 
